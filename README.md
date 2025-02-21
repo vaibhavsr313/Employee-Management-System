@@ -34,9 +34,8 @@ This is a mobile-friendly Employee Management System built using Apache Cordova 
 
 ## 📸 Screenshots
 
-(Add screenshots of the app interface here)
-
-(Make sure to upload actual screenshots in a `screenshots/` folder)
+### 1. First Image:  
+![ss1.jpg](ss1.jpg)
 
 ## ⚙️ Installation & Setup
 
