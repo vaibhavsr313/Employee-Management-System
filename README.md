@@ -35,7 +35,31 @@ This is a mobile-friendly Employee Management System built using Apache Cordova 
 ## 📸 Screenshots
 
 ### 1. First Image:  
-![ss1.jpg](ss1.jpg)
+![ss1.jpg](ss/ss1.jpg)
+
+### 2. Second Image:  
+![ss1.jpg](ss/ss2.jpg)
+
+### 3. Third Image:  
+![ss1.jpg](ss/ss3.jpg)
+
+### 4. Fourth Image:  
+![ss1.jpg](ss/ss4.jpg)
+
+### 5. Fifth Image:  
+![ss1.jpg](ss/ss5.jpg)
+
+### 6. Sixth Image:  
+![ss1.jpg](ss/ss6.jpg)
+
+### 7. Seventh Image:  
+![ss1.jpg](ss/ss7.jpg)
+
+### 8. Eigth Image:  
+![ss1.jpg](ss/ss8.jpg)
+
+### 9. Ninth Image:  
+![ss1.jpg](ss/ss9.jpg)
 
 ## ⚙️ Installation & Setup
 
